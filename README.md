@@ -1,0 +1,2 @@
+# RingoMedia
+Developer Task
